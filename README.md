@@ -4,7 +4,7 @@ Common utility functions that are unavailable in Spark SQL.
 - python : https://www.python.org/downloads/<br/><br/>
 - install using pip
    ```
-   pip install spark-utility
+   pip install spark_utility
    ```
 ## Available functions
 - isNumeric
